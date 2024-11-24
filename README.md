@@ -4,11 +4,11 @@
 
 ### VS Code has first class support for Python
 
-![xxx](images/ss1.jpg)
+![Python in VS Code](images/ss1.jpg)
 
 ### There is a full extension for CircuitPython support
 
-[![xxx](images/ss1a.jpg)](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython)
+[![CircuitPython extension](images/ss1a.jpg)](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython){:target="_blank"} 
 
 ### Creating tasks in VS Code
 
