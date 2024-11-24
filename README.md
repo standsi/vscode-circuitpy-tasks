@@ -8,9 +8,12 @@
 
 ### There is a full extension for CircuitPython support
 
-![xxx](images/ss1a.jpg)
+[![xxx](images/ss1a.jpg)](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython)
 
 ### Creating tasks in VS Code
+
+Full documentaion for creating custom tasks is [here](https://code.visualstudio.com/Docs/editor/tasks#_custom-tasks)
+
 
 ![xxx](images/ss2.jpg)
 
@@ -32,8 +35,6 @@
 
 ```json
 {
-    // See https://go.microsoft.com/fwlink/?LinkId=733558
-    // for the documentation about the tasks.json format
     "version": "2.0.0",
     "tasks": [
         {
