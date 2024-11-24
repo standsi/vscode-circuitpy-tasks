@@ -1,4 +1,4 @@
-## Visual Studio Code Tasks to Update CircuitPython Files on a Dev Board
+## Using Tasks in Visual Studio Code with CircuitPython
 
-![VS Code layout for Tasks](images/thumb2.jpg)
+![VS Code layout for Tasks](images/thumb3.jpg)
 
