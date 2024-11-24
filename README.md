@@ -12,7 +12,7 @@
 
 ### Creating tasks in VS Code
 
-Full documentaion for creating custom tasks is [here](https://code.visualstudio.com/Docs/editor/tasks#_custom-tasks)
+Full documentaion for creating custom tasks is [here](https://code.visualstudio.com/Docs/editor/tasks#_custom-tasks){:target="_blank"}
 
 
 ![xxx](images/ss2.jpg)
