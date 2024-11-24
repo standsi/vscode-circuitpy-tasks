@@ -30,8 +30,7 @@
 
 ### Tasks built to help maintain CircuitPython files
 
-```
-
+```json
 {
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
@@ -81,7 +80,6 @@
         }
     ]
 }
-
 ```
 
 ![xxx](images/ss9.jpg)
